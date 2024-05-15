@@ -13,4 +13,4 @@ Disclaimer: This repository is intended solely for educational purposes. Users a
 
 <h2><b>Note: As ethical hackers, our mission is to contribute positively to the cybersecurity landscape. By using these resources responsibly, we can collectively enhance digital security and protect online environments.</b></h2>
 
-Happy hacking responsibly!
+<h2>Happy hacking responsibly!</h2>
